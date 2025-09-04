@@ -5,4 +5,4 @@ console.log "hello world"
 // okay with git ignore.
 // issue in git commit -a -m
 //  this is to understand stash
-
+// this is to understand git revert 
