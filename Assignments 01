@@ -2,3 +2,6 @@ console.log "hello world"
 //hello world this is my second change.
 // this is the third change for git reset.
 // this is one line 
+// okay with git ignore.
+// issue in git commit -a -m
+
