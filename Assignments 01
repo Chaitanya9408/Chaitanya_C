@@ -4,4 +4,5 @@ console.log "hello world"
 // this is one line 
 // okay with git ignore.
 // issue in git commit -a -m
+//  this is to understand stash
 
