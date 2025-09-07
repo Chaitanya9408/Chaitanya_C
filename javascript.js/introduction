@@ -224,3 +224,4 @@ console.log(typeof undef); // Output: undefined
 let nullValue = null; // Null data type
 console.log(nullValue); // Output: null
 console.log(typeof nullValue);  // bug error 
+        
