@@ -6,3 +6,5 @@ console.log "hello world"
 // issue in git commit -a -m
 //  this is to understand stash
 // this is to understand git revert 
+// til here its fine
+
