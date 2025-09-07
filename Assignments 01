@@ -8,5 +8,9 @@ console.log "hello world"
 // this is to understand git revert 
 // til here its fine
 //this is to understand git push origin 
+// console.log git add. this ca be used to integrate changes in the repo 
+//console.log git commit -m "commits the chnages into stagging area"
+//console.log git push origin main "saves the changes to the repo and exhibits them into github"
+
 
 
