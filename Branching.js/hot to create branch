@@ -1,0 +1,15 @@
+// execute the command git checkout -b "branchname"
+//conditions to create a new branchname
+/*
+firstly all your master code must be updated for which use the commands,
+git fetch
+git pull origin main
+*/
+//now add this changes using 
+/*
+git add .
+git commit -m "commit msg"
+git push main branchname (here it is CK01)
+*/
+
+// now your branch is visible in the repository
